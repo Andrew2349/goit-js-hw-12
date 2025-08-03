@@ -1,0 +1,10 @@
+.form{
+    display: flex;
+    justify-content: center;
+    gap:9px;
+    padding-top: 10px;
+}
+.input-label {
+    display: inline-flex;
+    align-items: center;
+}
